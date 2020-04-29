@@ -36,6 +36,9 @@ The idea is to stop the transmission by prioritizing tests and hence detecting t
 	* Probability of COVID-19 infection
 ---
 
+## Hosting
+- This app is successfully hosted on heroku.
+---
 ## Author Info
 - Abhinav Jha
 	* Junior Software Developer and Data Engineer

@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 import pickle
-from sklearn.linear_model import LogisticRegression
+from sklearn import svm
 
 app = Flask(__name__)
 
